@@ -71,6 +71,7 @@ class kmsBase:
                 uuid.UUID("55C92734-D682-4D71-983E-D6EC3F16059F") : "Windows",
                 uuid.UUID("59A52881-A989-479D-AF46-F275C6370663") : "Office 14 (2010)",
                 uuid.UUID("0FF1CE15-A989-479D-AF46-F275C6370663") : "Office 15 (2013)",
+		uuid.UUID("0FF1CE16-A989-479D-AF46-F275C6370663") : "Office 16 (2015)",
         }
 
         skuIds = {
@@ -198,9 +199,7 @@ class kmsBase:
                 uuid.UUID("58e97c99-f377-4ef1-81d5-4ad5522b5fd8") : "Windows 10 Home",
                 uuid.UUID("7b9e1751-a8da-4f75-9560-5fadfe3d8e38") : "Windows 10 Home N",
                 uuid.UUID("cd918a57-a41b-4c82-8dce-1a538e221a83") : "Windows 10 Home Single Language",
-                uuid.UUID("a9107544-f4a0-4053-a96a-1479abdef912") : "Windows 10 Home Country Specific",
-                uuid.UUID("d450596f-894d-49e0-966a-fd39ed4c4c64") : "Office Professional Plus 2016",
-                uuid.UUID("dedfa23d-6ed1-45a6-85dc-63cae0546de6") : "Office Standard 2016",
+                uuid.UUID("a9107544-f4a0-4053-a96a-1479abdef912") : "Windows 10 Home Country Specific"
 		}
 
 	licenseStates = {
