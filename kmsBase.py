@@ -201,7 +201,9 @@ class kmsBase:
                 uuid.UUID("58e97c99-f377-4ef1-81d5-4ad5522b5fd8") : "Windows 10 Home",
                 uuid.UUID("7b9e1751-a8da-4f75-9560-5fadfe3d8e38") : "Windows 10 Home N",
                 uuid.UUID("cd918a57-a41b-4c82-8dce-1a538e221a83") : "Windows 10 Home Single Language",
-                uuid.UUID("a9107544-f4a0-4053-a96a-1479abdef912") : "Windows 10 Home Country Specific"
+                uuid.UUID("a9107544-f4a0-4053-a96a-1479abdef912") : "Windows 10 Home Country Specific",
+		uuid.UUID("5b5cf08f-b81a-431d-b080-3450d8620565") : "Office Visio Professional 2019",
+		uuid.UUID("e06d7df3-aad0-419d-8dfb-0ac37e2bdf39") : "Office Visio Standard 20191"
 		}
 
 	licenseStates = {
