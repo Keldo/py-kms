@@ -72,7 +72,7 @@ class kmsBase:
                 uuid.UUID("59A52881-A989-479D-AF46-F275C6370663") : "Office 14 (2010)",
                 uuid.UUID("0FF1CE15-A989-479D-AF46-F275C6370663") : "Office 15 (2013)",
 		uuid.UUID("0FF1CE16-A989-479D-AF46-F275C6370663") : "Office 16 (2015)",
-		uuid.UUID("98ebfe73-2084-4c97-932c-c0cd1643bea7") : "Office 2016",
+		uuid.UUID("70d9ceb6-6dfa-4da4-b413-18c1c3c76e2e") : "Office 2016",
         }
 
         skuIds = {
@@ -203,7 +203,8 @@ class kmsBase:
                 uuid.UUID("cd918a57-a41b-4c82-8dce-1a538e221a83") : "Windows 10 Home Single Language",
                 uuid.UUID("a9107544-f4a0-4053-a96a-1479abdef912") : "Windows 10 Home Country Specific",
 		uuid.UUID("5b5cf08f-b81a-431d-b080-3450d8620565") : "Office Visio Professional 2019",
-		uuid.UUID("e06d7df3-aad0-419d-8dfb-0ac37e2bdf39") : "Office Visio Standard 2019"
+		uuid.UUID("e06d7df3-aad0-419d-8dfb-0ac37e2bdf39") : "Office Visio Standard 2019",
+		uuis.UUID("70d9ceb6-6dfa-4da4-b413-18c1c3c76e2e") : "Microsoft Office 2016"
 		}
 
 	licenseStates = {
