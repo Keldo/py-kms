@@ -204,7 +204,7 @@ class kmsBase:
                 uuid.UUID("a9107544-f4a0-4053-a96a-1479abdef912") : "Windows 10 Home Country Specific",
 		uuid.UUID("5b5cf08f-b81a-431d-b080-3450d8620565") : "Office Visio Professional 2019",
 		uuid.UUID("e06d7df3-aad0-419d-8dfb-0ac37e2bdf39") : "Office Visio Standard 2019",
-		uuis.UUID("70d9ceb6-6dfa-4da4-b413-18c1c3c76e2e") : "Microsoft Office 2016"
+		uuid.UUID("70d9ceb6-6dfa-4da4-b413-18c1c3c76e2e") : "Microsoft Office 2016"
 		}
 
 	licenseStates = {
