@@ -72,6 +72,7 @@ class kmsBase:
                 uuid.UUID("59A52881-A989-479D-AF46-F275C6370663") : "Office 14 (2010)",
                 uuid.UUID("0FF1CE15-A989-479D-AF46-F275C6370663") : "Office 15 (2013)",
 		uuid.UUID("0FF1CE16-A989-479D-AF46-F275C6370663") : "Office 16 (2015)",
+		uuid.UUID("98ebfe73-2084-4c97-932c-c0cd1643bea7") : "Office 2016",
         }
 
         skuIds = {
@@ -108,7 +109,7 @@ class kmsBase:
                 uuid.UUID("c72c6a1d-f252-4e7e-bdd1-3fca342acb35") : "Windows 8.1 Core Single Language",
                 uuid.UUID("db78b74f-ef1c-4892-abfe-1e66b8231df6") : "Windows 8.1 Core Country Specific",
                 uuid.UUID("e9942b32-2e55-4197-b0bd-5ff58cba8860") : "Windows 8.1 Core Connected",
-				uuid.UUID("c6ddecd6-2354-4c19-909b-306a3058484e") : "Windows 8.1 Core ConnectedN",
+		uuid.UUID("c6ddecd6-2354-4c19-909b-306a3058484e") : "Windows 8.1 Core ConnectedN",
                 uuid.UUID("b8f5e3a3-ed33-4608-81e1-37d6c9dcfd9c") : "Windows 8.1 Core Connected Single Languag",
                 uuid.UUID("ba998212-460a-44db-bfb5-71bf09d1c68b") : "Windows 8.1 Core Connected Country Specific",
                 uuid.UUID("e58d87b5-8126-4580-80fb-861b22f79296") : "Windows 8.1 Professional Student",
@@ -170,6 +171,7 @@ class kmsBase:
                 uuid.UUID("b13afb38-cd79-4ae5-9f7f-eed058d750ca") : "Office Standard 2013",
                 uuid.UUID("d450596f-894d-49e0-966a-fd39ed4c4c64") : "Office Professional Plus 2016",
                 uuid.UUID("dedfa23d-6ed1-45a6-85dc-63cae0546de6") : "Office Standard 2016",
+		uuid.UUID("98ebfe73-2084-4c97-932c-c0cd1643bea7") : "Office 2016",
                 uuid.UUID("4f414197-0fc2-4c01-b68a-86cbb9ac254c") : "Office Project Pro 2016",
                 uuid.UUID("da7ddabc-3fbe-4447-9e01-6ab7440b4cd4") : "Office Project Standard 2016",
                 uuid.UUID("6bf301c1-b94a-43e9-ba31-d494598c47fb") : "Office Visio Pro 2016",
